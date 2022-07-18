@@ -1,9 +1,18 @@
-### Hi there, I'm Gustavo - aka [Gustavobf] 👋
+# Gustavo Batista
 
-## I'm Developer and Student
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavobf)](https://github.com/Gustavobf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-batista-figueiredo/)](https://www.linkedin.com/in/gustavo-batista-figueiredo/)
 
-- I’m currently learning Java and Spring Boot
-- I’m looking to share my knowledge
+<p>
+  <img src="http://views.whatilearened.today/views/github/gustavobf/views.svg" />
+  <a href="https://github.com/Gustavobf">
+    <img src="https://img.shields.io/github/followers/gustavobf?color=%234CC61E&label=GitHub%20Followers%20%3A" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
+</p>
 
 <div>
   <a href="https://github.com/Gustavobf">
@@ -11,7 +20,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ##
+  ###
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gustavobf)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## Hi there 👋
+
+I'm Java Developer, passionate about technology and always seeking more knowledge
+
+## Main Abilities
+- [x] Java | Spring | Quarkus | Java EE
+- [x] Junit | Mockito | PowerMock
+- [x] Swagger | OpenApi
+- [x] HTML | CSS
+- [x] Apache Kafka 
+- [x] Oracle | SQL Server | MySQL
+- [x] Restful
+- [x] Docker | Sonar | Git
+- [x] Eclipse | VSCode | Postman
+- [x] Scrum | Kanban
 
 ### Languages and Tools:
   <div style="display: inline_block"><br>
@@ -27,13 +55,8 @@
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div>
   
-  
-  ##
-  
-  ### Connect with me:
-
-  <a href="https://www.linkedin.com/in/gustavo-batista-figueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### Certificates
+  - [AZ900 - Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/719290ed-1fd2-4e80-b203-51281371d386/public_url)
+  - [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1CCC314C346DBC8A304439BB8B4AB1A629F709AAA98A5CE8E3FA404AF83C5BA2)
 
 ---
-
-  ![Snake animation](https://github.com/Gustavobf/Gustavobf/blob/output/github-contribution-grid-snake.svg)
