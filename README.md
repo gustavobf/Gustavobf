@@ -1,6 +1,6 @@
 # Gustavo Batista
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavobf)](https://github.com/Gustavobf)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavobf)](https://github.com/gustavobf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-batista-figueiredo/)](https://www.linkedin.com/in/gustavobfig/)
 
 <p>
@@ -25,13 +25,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gustavobf)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Main Abilities
-- [x] Java | Spring | Quarkus | Java EE
+- [x] Java | Spring Boot | Quarkus | Java EE
 - [x] Junit | Mockito | PowerMock
 - [x] Swagger | OpenApi
 - [x] HTML | CSS
 - [x] Apache Kafka 
 - [x] Oracle | SQL Server | MySQL
-- [x] Restful
+- [x] REST
 - [x] Docker | Sonar | Git
 - [x] Eclipse | VSCode | Postman
 - [x] Scrum | Kanban
@@ -50,5 +50,6 @@
 ### Certificates
   - [AZ900 - Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/719290ed-1fd2-4e80-b203-51281371d386/public_url)
   - [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1CCC314C346DBC8A304439BB8B4AB1A629F709AAA98A5CE8E3FA404AF83C5BA2)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/130563de-2906-46f2-a8d3-96f93acc3068/linked_in_profile)
 
 ---
