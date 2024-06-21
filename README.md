@@ -1,7 +1,7 @@
 # Gustavo Batista
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavobf)](https://github.com/Gustavobf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-batista-figueiredo/)](https://www.linkedin.com/in/gustavo-batista-figueiredo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-batista-figueiredo/)](https://www.linkedin.com/in/gustavobfig/)
 
 <p>
   <img src="http://views.whatilearened.today/views/github/gustavobf/views.svg" />
@@ -23,11 +23,6 @@
   ###
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gustavobf)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## Hi there 👋
-
-I'm Java Developer, passionate about technology and always seeking more knowledge
 
 ## Main Abilities
 - [x] Java | Spring | Quarkus | Java EE
